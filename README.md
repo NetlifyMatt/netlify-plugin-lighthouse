@@ -91,6 +91,7 @@ Create a `.env` file based on the [example](.env.example) and run
 yarn install
 yarn local
 ```
+
 ## Lighthouse Score Visualizations (Labs feature)
 
 <img width="1400" alt="Deploy view with Lighthouse visualizations" src="https://user-images.githubusercontent.com/79875905/160019039-c3e529de-f389-42bc-a3d4-458c90d59e6a.png">
